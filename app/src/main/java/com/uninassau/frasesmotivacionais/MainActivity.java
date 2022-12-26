@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
                 "desejo de ser curado.", "O que me preocupa não é o grito dos maus. É o silêncio " +
                 "dos bons.", "Inspiração vem dos outros. Motivação vem de dentro de nós.","Há sempre" +
                 " alguém de plantão para achar que o certo é errado.", "Não devemos nos orgulhar de " +
-                "sermos melhores que os outros, mas sim melhores do que já fomos."};
+                "sermos melhores que os outros, mas sim foreshores do que já fomos."};
 
         int n = new Random().nextInt(frases.length);
 
